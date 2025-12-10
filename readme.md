@@ -65,17 +65,6 @@
   <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=twilio&logoColor=white" alt="SendGrid"/>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDawoudzai&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamedDawoudzai&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
 
 ---
 
