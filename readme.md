@@ -18,8 +18,6 @@
   • Feel free to connect with me via GitHub or LinkedIn!
 </p>
 
----
-
 <h2 align="center">🛠️ Languages & Technologies</h2>
 
 <h3 align="center">Programming Languages</h3>
